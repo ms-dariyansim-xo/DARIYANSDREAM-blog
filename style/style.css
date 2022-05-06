@@ -23,6 +23,10 @@ a{
     grid-template-columns: auto auto auto auto;
     
 }
+h4{
+    background-color: lightseagreen;
+    color: black;
+}
 .nav-functions :hover{
 
 
@@ -32,14 +36,26 @@ a{
 #first-title {
     border: 1px solid white;
     text-align: center;
+    margin: 0 auto;
+    margin-bottom: 15px;;
     margin-top: 15px;
+    width: 80%;
+    
 }
 
 .intro-content{
     text-align: center;
 
 }
-.about-me{
-    margin-top: 5px;
+.aboutme-container{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 80%;
+    border: 1px solid white;
     text-align: center;
+}
+.first-article{
+
+    padding: 5px;
+    border: .5px solid white;
 }
