@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+#navigation{
+    border: 5px solid white;
+
+}
+
+.nav-functions{
+    text-align: center;
+    margin: 3px;
+    border: 1px solid palevioletred;
+}
+
+#first-title {
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.intro-content{
+    text-align: center;
+
+}
+.about-me{
+    margin-top: 5px;
+    text-align: center;
+}
