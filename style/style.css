@@ -4,16 +4,30 @@ body{
 
 }
 
+a{
+    color: palevioletred;
+}
+
 #navigation{
     border: 5px solid white;
 
 }
 
+
 .nav-functions{
+
     text-align: center;
     margin: 3px;
     border: 1px solid palevioletred;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
 }
+.nav-functions :hover{
+
+
+}
+
 
 #first-title {
     border: 1px solid white;
