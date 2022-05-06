@@ -7,6 +7,9 @@ body{
 a{
     color: palevioletred;
 }
+p{
+    padding: 3px;
+}
 
 #navigation{
     border: 5px solid white;
@@ -23,10 +26,12 @@ a{
     grid-template-columns: auto auto auto auto;
     
 }
-h4{
+
+h3, h4{
     background-color: lightseagreen;
     color: black;
 }
+
 .nav-functions :hover{
 background-color: white;
 color: lightseagreen;
@@ -59,4 +64,16 @@ color: lightseagreen;
 
     padding: 5px;
     border: .5px solid white;
+}
+
+#ego-columns{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+
+.egoname-columns{
+    border: 1px dashed lightseagreen;
+
 }
