@@ -27,10 +27,13 @@ p{
     
 }
 
+
+
 h3, h4{
     background-color: lightseagreen;
     color: black;
 }
+
 
 .nav-functions :hover{
 background-color: white;
@@ -90,5 +93,6 @@ color: lightseagreen;
     background-color: gray;
     border-radius: 20px;
     margin: 15px;
+    
     
 }
