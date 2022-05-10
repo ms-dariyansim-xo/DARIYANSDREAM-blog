@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    
     color: white;
 
 }
@@ -40,6 +41,11 @@ background-color: white;
 color: lightseagreen;
 
 }
+
+#bg-image{
+    background-image: url('https://giphy.com/embed/3ov9k1173PdfJWRsoE');
+}
+
 #ai-image{
     text-align: center;
     opacity: 85%;
