@@ -44,10 +44,6 @@ color: lightseagreen;
     text-align: center;
     opacity: 85%;
 }
-.ai-image{
-    mask-image: -moz-linear-gradient();
-    
-}
 
 #first-title {
     border: 1px solid white;
