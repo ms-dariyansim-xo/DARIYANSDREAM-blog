@@ -40,9 +40,13 @@ background-color: white;
 color: lightseagreen;
 
 }
-#ai-image{
-    opacity: 90%;
+#ai-container{
     text-align: center;
+    opacity: 85%;
+}
+.ai-image{
+    mask-image: -moz-linear-gradient();
+    
 }
 
 #first-title {
