@@ -23,7 +23,7 @@ p{
     margin: 3px;
     border: 1px solid palevioletred;
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-columns: auto auto;
     
 }
 
