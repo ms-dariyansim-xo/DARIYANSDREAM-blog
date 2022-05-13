@@ -91,7 +91,10 @@ background-color: #8149a6;
     border: 1px solid white;
     text-align: center;
 }
-
+#article-container{
+    width:80%;
+    margin: 0 auto;
+}
 
 .first-article{
     padding: 15px;
@@ -99,6 +102,7 @@ background-color: #8149a6;
     background-color: palegoldenrod;
     opacity: 85%;
     color: black;
+
    
 }
 
