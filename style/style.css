@@ -8,7 +8,7 @@ body{
 }
 
 a{
-    color: palevioletred;
+    color: #d98bb6;
 }
 p{
     padding: 3px;
@@ -33,18 +33,16 @@ p{
 
 
 h3, h4{
-    background-color: lightseagreen;
+    background-color: #8149a6;
     color: black;
 }
 
 
 .nav-functions :hover{
 background-color: white;
-color: lightseagreen;
+color: #8149a6;
 
 }
-
-
 
 #ai-image{
     text-align: center;
@@ -80,6 +78,7 @@ color: lightseagreen;
 
 .first-article{
     padding: 15px;
+    background-color: 071540;
 }
 
 #ego-container{
