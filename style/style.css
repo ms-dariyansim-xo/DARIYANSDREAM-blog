@@ -87,7 +87,9 @@ background-color: #8149a6;
 .first-article{
     padding: 15px;
     text-align: center;
-    background-color: gray;
+    background-color: palegoldenrod;
+    opacity: 85%;
+    color: black;
    
 }
 
