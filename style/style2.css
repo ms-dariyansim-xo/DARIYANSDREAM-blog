@@ -55,7 +55,6 @@ a{
     margin: 4px auto;
     width: 95%;
     display:grid;
-    align-content: center;
     grid-template-columns: 40% auto;
     opacity: 85%;
     padding: 10px;
@@ -65,28 +64,31 @@ a{
 
 #sidebar-content{
     grid-column-start: 2;
-    
 }
 
 #article-content{
     border: 1px solid black;
     height: 600px;
-    width: 100%;
+    width: 90%;
     background-color: #8149A6;
 }
 
 .article{
+    margin: 10px;
     border: 1px solid black;
     background-color: white;
-    height: 90px;
+    height: 50px;
     color: #8149A6;
 }
 
 
+.first-article{
+    background-color: darkgray;
+    border: 1px solid black;
+}
 .blog-container{
+    
     border: 3px solid darkgray;
-    padding: 5px;
     border-radius: 5px;
-    margin: 15px;
     text-align: center;
 }
