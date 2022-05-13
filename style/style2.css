@@ -7,22 +7,27 @@ body, html{
 #main-container{
     border: 1px solid black;
     background-color: yellow;
+    width: 95%;
     display:grid;
     margin: 0 auto;
-    grid-template-columns: auto 25%;
+    grid-template-columns: auto 30%;
 
 }
 
 #sidebar-content{
-    background-color: palevioletred;
     grid-column-start: 2;
+    
 }
 
 #article-content{
     border: 1px solid black;
-
+    height: 600px;
+    width: 100%;
+    background-color: purple;
 }
 
 .article{
     border: 1px solid black;
+    background-color: gray;
+    height: 90px;
 }
