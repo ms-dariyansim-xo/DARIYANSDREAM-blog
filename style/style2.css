@@ -7,8 +7,11 @@ body, html{
     background-attachment: fixed;
     color: white;
 }
+
+
+
 a{
-    color: #d98bb6;;
+    color: #d98bb6;
 }
 
 h5{
@@ -108,3 +111,4 @@ h5{
     background-color: darkgray;
     height: 100%;
 }
+
