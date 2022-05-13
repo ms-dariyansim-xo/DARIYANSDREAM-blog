@@ -48,10 +48,9 @@ background-color: #8149a6;
 }
 
 #ai-image{
-    position: relative;
     text-align: center;
-    transform-style: fade out;
     transition: width 3s;
+    
 }
 .AI-img:hover {
     border-radius: 15px;
