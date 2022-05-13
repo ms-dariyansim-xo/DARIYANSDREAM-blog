@@ -81,10 +81,6 @@ color: #8149a6;
     background-color: 071540;
 }
 
-#ego-container{
-
-
-}
 #ego-columns{
     display: grid;
     grid-template-columns: auto auto auto;
