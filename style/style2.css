@@ -8,7 +8,7 @@ body, html{
     color: white;
 }
 a{
-    color: white;
+    color: #8149a6;
 }
 
 #navigation{
@@ -17,17 +17,17 @@ a{
 }
 
 .nav-functions{
-
+    padding: 5px;
     text-align: center;
     margin: 3px;
-    border: 1px solid white;
+    border: 1px solid #d98bb6;
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    
+    background-color:white;
 }
 .nav-functions :hover
 {
-    background-color: white;
+    background-color:  palegoldenrod;
     color: #8149a6;
     
 }
@@ -94,11 +94,11 @@ a{
     border: 3px solid darkgray;
     border-radius: 10px;
     text-align: center;
-    background-color: gray;
+    background-color: palegoldenrod;
     margin-top: 10px;
     
 }
 
 .blog-container:hover{
-    background-color: #8C3545;
+    background-color: #d98bb6;
 }
