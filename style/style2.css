@@ -8,9 +8,13 @@ body, html{
     color: white;
 }
 a{
-    color: #8149a6;
+    color: #d98bb6;;
 }
 
+h5{
+    color: rgba(242, 35, 166, 0.734);
+    background-color: white;
+}
 #navigation{
     border: 5px solid white;
 
@@ -55,7 +59,7 @@ a{
     width: 95%;
     display:grid;
     grid-template-columns: 70% auto;
-    opacity: 85%;
+    opacity: 95%;
     padding: 10px;
     text-align: center;
 
@@ -70,9 +74,9 @@ a{
 #article-content{
     border: 1px solid black;
     height: 370px;
-    width: 90%;
+    width: 95%;
     padding: 5px;
-    background-color: #8149A6;
+    background-color: rgba(242, 35, 166, 0.734);
 }
 
 .article{
@@ -96,9 +100,11 @@ a{
     text-align: center;
     background-color: palegoldenrod;
     margin-top: 10px;
+    height: 60%;
     
 }
 
 .blog-container:hover{
-    background-color: #d98bb6;
+    background-color: darkgray;
+    height: 100%;
 }
