@@ -2,6 +2,7 @@ body{
     background-color: black;
     background-image:url(../images/smokes.gif);
     background-size:cover;
+    background-attachment: fixed;
     color: white;
 
 }
