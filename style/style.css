@@ -49,11 +49,12 @@ background-color: #8149a6;
 
 #ai-image{
     text-align: center;
+    opacity: 90%;
     transition: width 3s;
     
 }
 .AI-img:hover {
-    border-radius: 15px;
+    border-radius: 25px;
     width: 200px;
 }
 
