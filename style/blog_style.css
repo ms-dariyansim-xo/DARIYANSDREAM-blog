@@ -1,6 +1,9 @@
 body{
     background-color: black;
     color: white;
+    background-image:url("../images/sparkles.gif");
+    background-size: cover;
+    background-attachment: fixed;
 
 }
 
