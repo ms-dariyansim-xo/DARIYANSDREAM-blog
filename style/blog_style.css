@@ -21,20 +21,20 @@ p{
 
     text-align: center;
     margin: 3px;
-    border: 1px solid palevioletred;
+    border: 1px solid #8c3545;
     display: grid;
     grid-template-columns: auto auto;
     
 }
 
 h3, h4{
-    background-color: #8149A6;
+    background-color: #8c3545;
     color: black;
 }
 
 .nav-functions :hover{
 background-color: white;
-color: #d98bb6;
+color: #8149A6;
 
 }
 
@@ -45,5 +45,48 @@ color: #d98bb6;
     margin-bottom: 15px;;
     margin-top: 15px;
     width: 80%;
+    
+}
+#main-container{
+    border: 5px double white;
+    background-color: gray;
+    margin: 0 auto;
+    width: 85%;
+    display:grid;
+    grid-template-columns: 80% auto;
+    opacity: 85%;
+    text-align: center;
+    height: 1000px;
+
+}
+
+#sidebar-content{
+    grid-column-start: 2;
+
+}
+
+#article-content{
+    border: 1px solid black;
+    
+    width: 90%;
+    padding: 5px;
+    background-color: #8149A6;
+}
+
+
+
+
+.first-article{
+    background-color: darkgray;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.blog-container{
+    border: 3px solid darkgray;
+    border-radius: 10px;
+    text-align: center;
+    background-color: gray;
+    margin-top: 10px;
     
 }
