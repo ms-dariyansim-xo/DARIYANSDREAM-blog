@@ -32,13 +32,17 @@ p{
 
 
 
-h3, h4{
+h3{
     background-color: #8149a6;
     color: black;
 }
+h4{
+    background-color: rgba(242, 35, 166, 0.734);
+}
 h5{
-    background-color: #d98bb6;
+    background-color: palegoldenrod;
     margin: 10px;
+    color: black;
 }
 
 
