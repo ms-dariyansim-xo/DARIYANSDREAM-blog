@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+
+
 body{
+    font-family: 'Kosugi Maru', sans-serif;    background-image:url(../images/smokes1.gif);
     background-color: black;
     background-image:url(../images/smokes1.gif);
     background-size:cover;
