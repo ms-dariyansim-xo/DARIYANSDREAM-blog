@@ -47,7 +47,9 @@ color: lightseagreen;
 
 #ai-image{
     text-align: center;
-    opacity: 85%;
+}
+.AI-img{
+    border-radius: 15px;
 }
 
 #first-title {
@@ -62,6 +64,7 @@ color: lightseagreen;
 
 .intro-content{
     text-align: center;
+    background-color: black;
 
 }
 .aboutme-container{
