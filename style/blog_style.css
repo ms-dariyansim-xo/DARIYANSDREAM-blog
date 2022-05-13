@@ -5,7 +5,7 @@ body{
 }
 
 a{
-    color: palevioletred;
+    color: white;
 }
 p{
     padding: 3px;
@@ -28,13 +28,13 @@ p{
 }
 
 h3, h4{
-    background-color: lightseagreen;
+    background-color: #8149A6;
     color: black;
 }
 
 .nav-functions :hover{
 background-color: white;
-color: lightseagreen;
+color: #d98bb6;
 
 }
 
