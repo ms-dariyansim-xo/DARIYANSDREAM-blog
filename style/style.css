@@ -75,12 +75,14 @@ background-color: #8149a6;
     margin-bottom: 15px;;
     margin-top: 15px;
     width: 80%;
+    opacity: 80%;
     
 }
 
 .intro-content{
     text-align: center;
     background-color: black;
+    opacity: 60%;
 
 }
 .aboutme-container{
@@ -90,6 +92,7 @@ background-color: #8149a6;
     width: 80%;
     border: 1px solid white;
     text-align: center;
+    opacity: 80%;
 }
 #article-container{
     width:80%;
