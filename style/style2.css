@@ -8,7 +8,7 @@ body, html{
     color: white;
 }
 a{
-    color: #d98bb6;
+    color: white;
 }
 
 #navigation{
@@ -89,9 +89,16 @@ a{
     border: 1px solid black;
     margin: 20px;
 }
+
 .blog-container{
     border: 3px solid darkgray;
-    border-radius: 5px;
+    border-radius: 10px;
     text-align: center;
+    background-color: gray;
+    margin-top: 10px;
     
+}
+
+.blog-container:hover{
+    background-color: #8C3545;
 }
