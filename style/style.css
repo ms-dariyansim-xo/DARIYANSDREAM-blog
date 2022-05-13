@@ -58,12 +58,12 @@ background-color: #8149a6;
 #ai-image{
     text-align: center;
     opacity: 90%;
-    transition: width 3s;
+    transition: width 10s;
     
 }
 .AI-img:hover {
     border-radius: 25px;
-    width: 200px;
+    width: 100px;
 }
 
 
