@@ -96,15 +96,17 @@ background-color: #8149a6;
     grid-template-columns: auto auto auto;
     margin-top: 30px;
     gap: 15px;
-    
+    text-align: center;
+    background-color: gray;
+    transition: width 3s;
 
     
 }
 
-.egoname-columns{
+.egoname-columns:hover{
     border: 1px dotted white;
+    background-color: black;
     text-align: center;
-    background-color: gray;
     width: 100%;
 }
 
