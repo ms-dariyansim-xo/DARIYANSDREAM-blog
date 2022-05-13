@@ -50,9 +50,12 @@ background-color: #8149a6;
 #ai-image{
     position: relative;
     text-align: center;
+    transform-style: fade out;
+    transition: width 3s;
 }
-.AI-img{
+.AI-img:hover {
     border-radius: 15px;
+    width: 200px;
 }
 
 
@@ -124,5 +127,4 @@ background-color: #8149a6;
 .text-image{
     background-color: white;
 }
-
 
