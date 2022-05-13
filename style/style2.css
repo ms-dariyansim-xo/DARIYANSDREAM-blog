@@ -49,7 +49,7 @@ a{
 }
 
 #main-container{
-    border: 1px solid black;
+    border: 5px double white;
     background-color: gray;
     margin: 4px auto;
     width: 95%;

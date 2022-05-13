@@ -27,24 +27,24 @@ p{
     border: 1px solid palevioletred;
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    
+    background-color:white;
 }
 
 
 
-h3, h4{
+h3, h4, h5{
     background-color: #8149a6;
     color: black;
 }
 
 
 .nav-functions :hover{
-background-color: white;
-color: #8149a6;
+background-color: #8149a6;
 
 }
 
 #ai-image{
+    position: relative;
     text-align: center;
 }
 .AI-img{
