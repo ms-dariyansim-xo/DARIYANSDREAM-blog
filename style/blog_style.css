@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@300&display=swap');
+
 body{
+    font-family: 'Khand', sans-serif;
     background-color: black;
     color: white;
     background-image:url("../images/sparkles.gif");
