@@ -77,9 +77,11 @@ background-color: #8149a6;
     text-align: center;
 }
 
+
 .first-article{
     padding: 15px;
-    background-color: 071540;
+    text-align: center;
+    background-color: gray;
 }
 
 #ego-columns{
