@@ -84,7 +84,9 @@ color: #8149A6;
 .first-article{
     background-color: darkgray;
     border: 1px solid black;
-    margin: 20px;
+    margin: 20px auto;
+    width: 80%;
+    opacity: 90%;
 }
 
 .blog-container{
