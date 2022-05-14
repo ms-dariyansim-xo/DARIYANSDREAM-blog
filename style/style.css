@@ -150,3 +150,7 @@ background-color: #8149a6;
 #ego-container{
     height: 750px;
 }
+
+.ego-images{
+    border-radius: 10%;
+}
