@@ -96,7 +96,8 @@ background-color: #8149a6;
 }
 #article-container{
     width:80%;
-    margin: 0 auto;
+    margin: 50px auto;
+    margin-bottom: 50px;
 }
 
 .first-article{
@@ -105,7 +106,7 @@ background-color: #8149a6;
     background-color: palegoldenrod;
     opacity: 85%;
     color: black;
-
+    
    
 }
 
